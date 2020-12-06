@@ -1,4 +1,4 @@
-# hafta-4-jdbc-odevi
+# hafta-4-jdbc-spring-odevi
 JDBC ödevi
 
 # Ödev Soruları
